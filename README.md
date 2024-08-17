@@ -1,4 +1,4 @@
-# Livraria_Buscante
+# E_Commerce_Buscante
 
 <strong>Descrição do Projeto:</strong>
 
